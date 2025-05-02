@@ -10,7 +10,7 @@ old_webpage_addresses = [
     "https://t.me/v2rayNGcloud",
     "https://t.me/s/ZibaNabz",
     "https://t.me/s/FreakConfig",
-    "https://t.me/s/V_2rey",
+    "https://t.me/s/V_2ray",
     "https://t.me/s/V2ray_Alpha",
     "https://t.me/s/PROXY_MTM",
     "https://t.me/s/SiNABiGO",
